@@ -1,16 +1,16 @@
-name,ring,quadrant,isNew
-David,parents,father-side,TRUE
-Rachel,parents,mother-side,FALSE
-Mark,relative,father-side,TRUE
-Packer,relative,father-side,FALSE
-Aditya,relative,mother-side,FALSE
-Santana,relative,father-side,FALSE
-Pikeman,relative,mother-side,TRUE
-Galen,friend,father-side-friend,TRUE
-Hashi,friend,mother-side-friend,FALSE
-Helen,friend,mother-side-friend,FALSE
-Damer,friend,mother-side-friend,FALSE
-Glory,friend,father-side-friend,FALSE
-Malone,friend,father-side-friend,FALSE
-Tupac,friend,mother-side-friend,FALSE
-Ginger,friend,father-side-friend,FALSE
+name,ring,quadrant,isNew,description
+David,parents,father-side,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Rachel,parents,mother-side,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Mark,relative,father-side,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Packer,relative,father-side,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Aditya,relative,mother-side,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Santana,relative,father-side,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Pikeman,relative,mother-side,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Galen,friend,father-side-friend,TRUE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Hashi,friend,mother-side-friend,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Helen,friend,mother-side-friend,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Damer,friend,mother-side-friend,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Glory,friend,father-side-friend,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Malone,friend,father-side-friend,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Tupac,friend,mother-side-friend,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Ginger,friend,father-side-friend,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
