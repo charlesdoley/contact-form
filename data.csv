@@ -1,0 +1,16 @@
+name,ring,quadrant,isNew
+David,parents,father-side,TRUE
+Rachel,parents,mother-side,FALSE
+Mark,relative,father-side,TRUE
+Packer,relative,father-side,FALSE
+Aditya,relative,mother-side,FALSE
+Santana,relative,father-side,FALSE
+Pikeman,relative,mother-side,TRUE
+Galen,friend,father-side-friend,TRUE
+Hashi,friend,mother-side-friend,FALSE
+Helen,friend,mother-side-friend,FALSE
+Damer,friend,mother-side-friend,FALSE
+Glory,friend,father-side-friend,FALSE
+Malone,friend,father-side-friend,FALSE
+Tupac,friend,mother-side-friend,FALSE
+Ginger,friend,father-side-friend,FALSE
